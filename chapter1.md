@@ -1,3 +1,6 @@
-# First Chapter
+# N범위가 쓸데 없이 넓을 때
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Inspired by baekjoon \#5480
+
+
+
